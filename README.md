@@ -38,4 +38,4 @@ Your feedback and suggestions are highly appreciated!
 
 ---
 
-By [Your Name](https://github.com/adityakankriya)
+By [Aditya Kankriya](https://github.com/adityakankriya)
